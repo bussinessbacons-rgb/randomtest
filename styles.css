@@ -1,7 +1,7 @@
 body {
     text-align: center;
     background-color: #0b0c10; /* deep night */
-    background-image: url("images/creepy_forest.jpg");
+    background-image: url("creepy_forest.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -150,3 +150,4 @@ p {
 .story-tab:target {
     display: block;
 }
+
